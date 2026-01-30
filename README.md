@@ -1,3 +1,3 @@
 # discord-22
 discord
-(https://.discord.com
+(https://.discord.com)
